@@ -1,2 +1,2 @@
-# console-application
+# console-applications
 C# Console Applications
