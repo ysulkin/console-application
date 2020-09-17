@@ -1,0 +1,13 @@
+c:/users/children/documents/visual studio 2015/Projects/Piglatin/Piglatin/bin/Debug/Piglatin.exe.config
+c:/users/children/documents/visual studio 2015/Projects/Piglatin/Piglatin/bin/Debug/Piglatin.exe
+c:/users/children/documents/visual studio 2015/Projects/Piglatin/Piglatin/bin/Debug/Piglatin.pdb
+c:/users/children/documents/visual studio 2015/Projects/Piglatin/Piglatin/obj/Debug/Piglatin.csprojResolveAssemblyReference.cache
+c:/users/children/documents/visual studio 2015/Projects/Piglatin/Piglatin/obj/Debug/Piglatin.exe
+c:/users/children/documents/visual studio 2015/Projects/Piglatin/Piglatin/obj/Debug/Piglatin.pdb
+/Users/yaelsulkin/console-applications/C# Programs by Yael/Piglatin/Piglatin/bin/Debug/Piglatin.exe.config
+/Users/yaelsulkin/console-applications/C# Programs by Yael/Piglatin/Piglatin/bin/Debug/Piglatin.exe
+/Users/yaelsulkin/console-applications/C# Programs by Yael/Piglatin/Piglatin/bin/Debug/Piglatin.pdb
+/Users/yaelsulkin/console-applications/C# Programs by Yael/Piglatin/Piglatin/obj/Debug/Piglatin.csprojAssemblyReference.cache
+/Users/yaelsulkin/console-applications/C# Programs by Yael/Piglatin/Piglatin/obj/Debug/Piglatin.csproj.CoreCompileInputs.cache
+/Users/yaelsulkin/console-applications/C# Programs by Yael/Piglatin/Piglatin/obj/Debug/Piglatin.exe
+/Users/yaelsulkin/console-applications/C# Programs by Yael/Piglatin/Piglatin/obj/Debug/Piglatin.pdb

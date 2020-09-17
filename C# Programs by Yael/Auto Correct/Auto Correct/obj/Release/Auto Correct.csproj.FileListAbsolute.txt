@@ -1,0 +1,6 @@
+/Users/yaelsulkin/console-applications/C# Programs by Yael/Auto Correct/Auto Correct/bin/Release/Auto Correct.exe.config
+/Users/yaelsulkin/console-applications/C# Programs by Yael/Auto Correct/Auto Correct/bin/Release/Auto Correct.exe
+/Users/yaelsulkin/console-applications/C# Programs by Yael/Auto Correct/Auto Correct/bin/Release/Auto Correct.pdb
+/Users/yaelsulkin/console-applications/C# Programs by Yael/Auto Correct/Auto Correct/obj/Release/Auto Correct.csproj.CoreCompileInputs.cache
+/Users/yaelsulkin/console-applications/C# Programs by Yael/Auto Correct/Auto Correct/obj/Release/Auto Correct.exe
+/Users/yaelsulkin/console-applications/C# Programs by Yael/Auto Correct/Auto Correct/obj/Release/Auto Correct.pdb

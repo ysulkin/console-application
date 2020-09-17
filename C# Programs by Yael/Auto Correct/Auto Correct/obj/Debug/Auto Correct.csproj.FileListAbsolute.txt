@@ -1,0 +1,13 @@
+c:/users/children/documents/visual studio 2015/Projects/Auto Correct/Auto Correct/bin/Debug/Auto Correct.exe.config
+c:/users/children/documents/visual studio 2015/Projects/Auto Correct/Auto Correct/obj/Debug/Auto Correct.csprojResolveAssemblyReference.cache
+c:/users/children/documents/visual studio 2015/Projects/Auto Correct/Auto Correct/bin/Debug/Auto Correct.exe
+c:/users/children/documents/visual studio 2015/Projects/Auto Correct/Auto Correct/bin/Debug/Auto Correct.pdb
+c:/users/children/documents/visual studio 2015/Projects/Auto Correct/Auto Correct/obj/Debug/Auto Correct.exe
+c:/users/children/documents/visual studio 2015/Projects/Auto Correct/Auto Correct/obj/Debug/Auto Correct.pdb
+/Users/yaelsulkin/console-applications/C# Programs by Yael/Auto Correct/Auto Correct/bin/Debug/Auto Correct.exe.config
+/Users/yaelsulkin/console-applications/C# Programs by Yael/Auto Correct/Auto Correct/bin/Debug/Auto Correct.exe
+/Users/yaelsulkin/console-applications/C# Programs by Yael/Auto Correct/Auto Correct/bin/Debug/Auto Correct.pdb
+/Users/yaelsulkin/console-applications/C# Programs by Yael/Auto Correct/Auto Correct/obj/Debug/Auto Correct.csprojAssemblyReference.cache
+/Users/yaelsulkin/console-applications/C# Programs by Yael/Auto Correct/Auto Correct/obj/Debug/Auto Correct.csproj.CoreCompileInputs.cache
+/Users/yaelsulkin/console-applications/C# Programs by Yael/Auto Correct/Auto Correct/obj/Debug/Auto Correct.exe
+/Users/yaelsulkin/console-applications/C# Programs by Yael/Auto Correct/Auto Correct/obj/Debug/Auto Correct.pdb

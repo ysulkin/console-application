@@ -1,0 +1,12 @@
+c:/users/children/documents/visual studio 2015/Projects/Palindromes/Palindromes/bin/Debug/Palindromes.exe.config
+c:/users/children/documents/visual studio 2015/Projects/Palindromes/Palindromes/bin/Debug/Palindromes.exe
+c:/users/children/documents/visual studio 2015/Projects/Palindromes/Palindromes/bin/Debug/Palindromes.pdb
+c:/users/children/documents/visual studio 2015/Projects/Palindromes/Palindromes/obj/Debug/Palindromes.csprojResolveAssemblyReference.cache
+c:/users/children/documents/visual studio 2015/Projects/Palindromes/Palindromes/obj/Debug/Palindromes.exe
+c:/users/children/documents/visual studio 2015/Projects/Palindromes/Palindromes/obj/Debug/Palindromes.pdb
+/Users/yaelsulkin/console-applications/C# Programs by Yael/Palindromes/Palindromes/bin/Debug/Palindromes.exe.config
+/Users/yaelsulkin/console-applications/C# Programs by Yael/Palindromes/Palindromes/bin/Debug/Palindromes.exe
+/Users/yaelsulkin/console-applications/C# Programs by Yael/Palindromes/Palindromes/bin/Debug/Palindromes.pdb
+/Users/yaelsulkin/console-applications/C# Programs by Yael/Palindromes/Palindromes/obj/Debug/Palindromes.csproj.CoreCompileInputs.cache
+/Users/yaelsulkin/console-applications/C# Programs by Yael/Palindromes/Palindromes/obj/Debug/Palindromes.exe
+/Users/yaelsulkin/console-applications/C# Programs by Yael/Palindromes/Palindromes/obj/Debug/Palindromes.pdb

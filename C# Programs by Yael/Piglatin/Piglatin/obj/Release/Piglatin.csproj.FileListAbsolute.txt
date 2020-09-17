@@ -1,0 +1,6 @@
+/Users/yaelsulkin/console-applications/C# Programs by Yael/Piglatin/Piglatin/bin/Release/Piglatin.exe.config
+/Users/yaelsulkin/console-applications/C# Programs by Yael/Piglatin/Piglatin/bin/Release/Piglatin.exe
+/Users/yaelsulkin/console-applications/C# Programs by Yael/Piglatin/Piglatin/bin/Release/Piglatin.pdb
+/Users/yaelsulkin/console-applications/C# Programs by Yael/Piglatin/Piglatin/obj/Release/Piglatin.csproj.CoreCompileInputs.cache
+/Users/yaelsulkin/console-applications/C# Programs by Yael/Piglatin/Piglatin/obj/Release/Piglatin.exe
+/Users/yaelsulkin/console-applications/C# Programs by Yael/Piglatin/Piglatin/obj/Release/Piglatin.pdb
